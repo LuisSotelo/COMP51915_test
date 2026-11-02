@@ -10,9 +10,11 @@
 
 \- `git commit` saves staged changes.
 
+## Working with Branches
 
+- `git branch` lists local branches.
+- `git switch` switches between branches.
+- `git push` uploads commits to a remote repository.
 
-\## To-do
-
-\- Learn how Git branches work.
-
+Branches allow us to work on changes separately
+before merging them into the main branch.
